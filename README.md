@@ -15,8 +15,8 @@
 **`Software Engineer` · `AI/ML Engineer` · `M.S. in AI @ Northeastern University`**
 
 [![Portfolio](https://img.shields.io/badge/eddyislearning.ai-000000?style=for-the-badge&logo=safari&logoColor=white)](https://eddyislearning.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiajunhuang-eddy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huang.jiaj@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jiajunh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@jiajunh.me)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ```yaml
 name:       Jiajun (Eddy) Huang
-location:   San Jose, CA — Silicon Valley
+location:   San Jose, CA
 education:  M.S. in Artificial Intelligence @ Northeastern University (Silicon Valley)
             B.S. in Computer Science @ UC Davis
 seeking:    Fall 2026 SDE / AI·ML Internship
@@ -165,8 +165,8 @@ AI-powered personal finance app that auto-categorizes transactions using LLM, ge
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddyJJHuang&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyJJHuang&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-ashy-kappa-22.vercel.app/api?username=EddyJJHuang&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="180em" src="https://github-readme-stats-ashy-kappa-22.vercel.app/api/top-langs/?username=EddyJJHuang&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
